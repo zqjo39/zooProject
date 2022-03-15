@@ -1,0 +1,41 @@
+body {
+    background-color: #fffcf2;
+}
+h1 {
+    color: #6e0d07;
+    font-size: 40px;
+}
+img {
+    border: 3px solid rgba(0, 0, 0, 0.863);
+}
+h3{
+    color: darkred;
+    font-size: 30px;
+}
+h5 {
+    color: #99251d;
+    font-size: 25px;
+}
+h8 {
+    color: darkred;
+    font-size: 15px;
+}
+ul {
+    color: #4f3310;
+    font-size: 20px;
+}
+a:link {
+    color: #4d0e19;
+    text-decoration: none;
+}
+a:visited {
+    color: #a17c40;
+    text-decoration: none;
+}
+a:hover {
+    color: #80142c;
+    text-decoration: underline;
+}
+p {
+    color: brown
+}
